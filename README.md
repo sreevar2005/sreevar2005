@@ -35,7 +35,7 @@ similarity, with tips to improve.
 
 ## Tech I work with
 
-**Languages:** Python · JavaScript · TypeScript
-**AI:** LLM APIs (Claude, Gemini, OpenAI) · tool calling · embeddings · MediaPipe
-**Web:** React · Vite · FastAPI · Tailwind CSS · Three.js
-**DevSecOps:** GitHub Actions · secret scanning · dependency scanning
+- **Languages:** Python · JavaScript · TypeScript
+- **AI:** LLM APIs (Claude, Gemini, OpenAI) · tool calling · embeddings · MediaPipe
+- **Web:** React · Vite · FastAPI · Tailwind CSS · Three.js
+- **DevSecOps:** GitHub Actions · secret scanning · dependency scanning
