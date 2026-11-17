@@ -26,10 +26,14 @@ questions out loud, listens to your answers, and scores each one with LLM judgme
 similarity, with tips to improve.
 `Python` `FastAPI` `React` `Three.js` `GLSL`
 
+### ✋ [Hand Frame AR](https://github.com/sreevar2005/hand-frame-ar)
+Frame a scene with both hands on your webcam (an "L" with each hand) and an animated portal
+appears inside the opening, following your hands as they move. In-browser hand tracking with
+MediaPipe; runs fully offline and never uploads video.
+`JavaScript` `MediaPipe` `computer vision` `AR`
+
 ## Also building
 
-- **Hand Frame AR**: frame a scene with both hands on your webcam and an animated portal appears
-  inside it. In-browser hand tracking with MediaPipe, fully offline.
 - **SpamShield**: paste an email and get an AI verdict on spam and phishing, with a confidence
   score and threat breakdown. React, TypeScript, Supabase.
 
