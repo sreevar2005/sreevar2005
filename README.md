@@ -1,6 +1,6 @@
-# Hi, I'm sreevar2005 👋
+# Hi, I'm CH Sreevar Thaksheel 👋
 
-CS student building AI, developer-security and computer-vision projects. I like tools that do one
+CS AIML student building AI, developer-security and computer-vision projects. I like tools that do one
 job carefully: explain their evidence, stay deterministic where they can, and never take risky
 actions on their own.
 
