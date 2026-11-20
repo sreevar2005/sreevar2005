@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="sreevar2005: CS student building AI, developer-security and computer-vision projects" width="100%">
+</p>
+
 # Hi, I'm CH Sreevar Thaksheel 👋
 
 CS AIML student building AI, developer-security and computer-vision projects. I like tools that do one
